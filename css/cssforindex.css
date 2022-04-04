@@ -21,6 +21,7 @@ h1 {
 p {
   font-size: 1.5em;
   color: #200620;
+
 }
 
 .realcloudleft {
@@ -110,7 +111,7 @@ h2 {
 }
 
 p {
-  font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
 }
 
 .socialmedia {
